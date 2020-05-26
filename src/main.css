@@ -1,0 +1,60 @@
+body {
+  background-color: #F5FBF9;
+}
+
+.logo-name {
+  display: inline-flex;
+  cursor: pointer;
+  font-size: 24px;
+  color: #333e48;
+  text-align: center;
+  line-height: 24.79px;
+  letter-spacing: -.63px;
+}
+
+.brand-first {
+  color: #193148;
+  line-height: 22px;
+  font-weight: 900;
+  font-size: 24.59px;
+}
+
+.brand-second {
+  line-height: 22px;
+  font-weight: 300 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+  color: #B8B8B8;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
+  color: #343434;
+}
+
+.navbar-nav .nav-item:first-child {
+  border-bottom: 2px solid #0C8CD0;
+}
+/* .navbar-nav .nav-item:last-child {
+  border-bottom: 2px solid #077E35;
+} */
+
+.lb-grey {
+  position: relative;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+  letter-spacing: -.23px;
+  color: #8498ae;
+}
+
+.lb-geral {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+}
+
+.lb-covid {
+  font-size: 12px;
+  font-weight: 900;
+  color: #1da584;
+}
