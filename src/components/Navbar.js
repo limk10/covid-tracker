@@ -10,7 +10,7 @@ export default function NavExample() {
         <div className={'logo-name'}>
           <div className={'brand-first mr-1'}>CORONAVÍRUS</div>
           <img src={barraLogo} alt="barra-logo" width='10' />
-          <div className={'brand-second ml-1'}>MUNDO</div>
+          <div className={'brand-second ml-1'}>MUNDIAL</div>
         </div>
       </NavbarBrand>
       <Nav className={'navbar-collapse justify-content-end nav-main'} navbar>
