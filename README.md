@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://imgur.com/OMjNRli" width="250px" /><br>
+<img href="https://imgur.com/OMjNRli" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h4>
 <p align="center">
