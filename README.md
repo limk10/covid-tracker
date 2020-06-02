@@ -1,6 +1,6 @@
 <h4 align="center">
-<img href="https://imgur.com/OMjNRli" width="250px" /><br>
- <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+<img href="./images/logo.png" width="250px" /><br>
+ <b>Monitore o COVID19 mundialmente!</b> 🦠
 </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-lopes-394240151/">
@@ -13,22 +13,17 @@
 
 ### :rocket: Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [ExpressJs](https://expressjs.com/pt-br/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Cors](https://www.npmjs.com/package/cors)
-- [Eslint](https://www.npmjs.com/package/eslint)
-- [Jest](https://www.npmjs.com/package/jest)
+- [React](https://pt-br.reactjs.org/)
+- [ShardsReact](https://designrevision.com/downloads/shards-react/)
+- [Axios](https://github.com/axios/axios)
 
 ### :muscle: Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
+<b>Covid Tracker</b> é um projeto que visa ajudar, ajudar pessoas a se manterem informadas a presente situação que estamos enfrentando. 
 
-### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
-As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
+### 🦠 Qual a importância de ajudar as pessoas? <br>
+
+Se manter informadas, exibindo numeros e gráficos detalhados do <b>COVID19</b>
 
 ### :recycle: Como contribuir
 
@@ -37,9 +32,9 @@ As organizações não governamentais <b>(ONGs)</b> são entidades privadas da s
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-### :mortar_board: Quem ministrou?
+### :mortar_board: Como surgiur a idéia?
 
-A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
+Surgiu primeiramente para aperfeiçoar habilidades já existentes e posteriormente ajudar pessoas voluntariamente
 
 ### :memo: Licença
 
