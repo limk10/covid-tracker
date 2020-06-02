@@ -1,5 +1,5 @@
 <h4 align="center">
-<img href="./images/logo.png" width="250px" /><br>
+<img src="./images/logo.png" width="250px" /><br>
  <b>Monitore o COVID19 mundialmente!</b> 🦠
 </h4>
 <p align="center">
